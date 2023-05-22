@@ -1,4 +1,4 @@
-# Sentiment-RuReview-Classifier
+# Sentiment Ru Review Classifier
 Test sample (last 3 columns) - dataset of real reviews of tourist attractions from Yandex maps.
 
 The purpose of this benchmark is to evaluate how hyperparameters affect the learning outcomes of a simple LSTM network.
