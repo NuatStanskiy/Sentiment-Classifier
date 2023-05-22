@@ -3,7 +3,7 @@ Test sample (last 3 columns) - dataset of real reviews of tourist attractions fr
 
 The purpose of this benchmark is to evaluate how hyperparameters affect the learning outcomes of a simple LSTM network.
 
-A total of 42 models have been trained, the internal architecture is the same.
+A total of 46 models have been trained, the internal architecture is the same.
 
 The established probability threshold for the transition from neutral to polar class is 0.5. Only two classes are defined on the test dataset: positive (grades 4 and 5) and negative (grades 1, 2 and 3).
 
